@@ -1,0 +1,4 @@
+{
+  "geocoderUrl": "https://nominatim.openstreetmap.org/search",
+  "overpassUrl": "https://overpass-api.de/api/interpreter"
+}
